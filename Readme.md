@@ -4,5 +4,6 @@ The program uses K-Means, a Machine Learning Clustering algorithm, to cluster al
 ### Requirements
 - Python
 - Sklearn
+- numpy
 - ipywidgets
 - Matplotlib
