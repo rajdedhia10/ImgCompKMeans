@@ -24,3 +24,7 @@ The program uses K-Means, a Machine Learning Clustering algorithm, to cluster al
 ### Credits :sparkles:
 - This project is a part of Coursera Project Network titled [Image Compression with K-Means Clustering](https://www.coursera.org/projects/scikit-learn-k-means-clustering-image-compression)
 - The pictures included are taken from [pexels.com](pexels.com)
+
+## License :page_facing_up:
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details
